@@ -1,0 +1,4 @@
+calculate the final temperature of two liquids with known mass and temperature
+calculate the needed amount to reach a target temperature with known temperatures
+calculate the needed temperature to reach target temperature with known mass
+
