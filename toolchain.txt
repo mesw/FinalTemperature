@@ -1,0 +1,4 @@
+Qt 6.2.0 WebAssembly
+Compiler: Emscripten Compiler 2.0.14 for C++
+Qt Version: Qt 6.2.0 WebAssembly
+CMake: CMake 3.21.1 (Qt)
